@@ -1,0 +1,15 @@
+
+server URLの切り替え
+
+development時
+power shellで
+$env:NODE_ENV = "development"; node server.js
+
+
+//---
+dev用サーバ
+$env:NODE_ENV = "development"; node server_dev.js
+
+webサーバを含まない。(viteで別に起動するため)
+
+

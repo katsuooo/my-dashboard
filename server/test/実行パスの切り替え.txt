@@ -1,0 +1,15 @@
+
+power shellで
+
+$env:NODE_PATH="../"
+
+
+/serverから
+
+node test/test_mem_g.js
+とすればおなじ
+
+
+
+
+

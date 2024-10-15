@@ -1,0 +1,1926 @@
+[
+  {
+    "date": "202308",
+    "wage": [
+      {
+        "name": "栗岡さやか",
+        "payType": "月給",
+        "wage_unit": 250000,
+        "wage_time": 1,
+        "month_wage": 250000,
+        "days": 15
+      },
+      {
+        "name": "岡本典子",
+        "payType": "時給",
+        "wage_unit": 1400,
+        "wage_time": 3.5,
+        "month_wage": 4900,
+        "days": 1
+      },
+      {
+        "name": "谷口昌宏",
+        "payType": "日給",
+        "wage_unit": 21000,
+        "wage_time": 0,
+        "month_wage": 84000,
+        "days": 4
+      },
+      {
+        "name": "安藤",
+        "payType": "日給",
+        "wage_unit": 5000,
+        "wage_time": 0,
+        "month_wage": 20000,
+        "days": 4
+      },
+      {
+        "name": "岡大介",
+        "payType": "時給",
+        "wage_unit": 2100,
+        "wage_time": 3,
+        "month_wage": 6300,
+        "days": 1
+      },
+      {
+        "name": "岩崎智穂美",
+        "payType": "時給",
+        "wage_unit": 2300,
+        "wage_time": 53.75,
+        "month_wage": 123625,
+        "days": 8
+      },
+      {
+        "name": "内藤康裕",
+        "payType": "日給",
+        "wage_unit": 10000,
+        "wage_time": 0,
+        "month_wage": 80000,
+        "days": 8
+      },
+      {
+        "name": "石田めぐみ",
+        "payType": "時給",
+        "wage_unit": 2100,
+        "wage_time": 152,
+        "month_wage": 319200,
+        "days": 18
+      },
+      {
+        "name": "谷健治",
+        "payType": "月給",
+        "wage_unit": 400000,
+        "wage_time": 1,
+        "month_wage": 400000,
+        "days": 18
+      },
+      {
+        "name": "北村あかり",
+        "payType": "時給",
+        "wage_unit": 3200,
+        "wage_time": 13.5,
+        "month_wage": 43200,
+        "days": 3
+      },
+      {
+        "name": "鈴木広美",
+        "payType": "時給",
+        "wage_unit": 1150,
+        "wage_time": 88.5,
+        "month_wage": 101775,
+        "days": 13
+      },
+      {
+        "name": "内藤みどり",
+        "payType": "日給",
+        "wage_unit": 10000,
+        "wage_time": 0,
+        "month_wage": 80000,
+        "days": 8
+      },
+      {
+        "name": "兼子さよこ",
+        "payType": "時給",
+        "wage_unit": 2200,
+        "wage_time": 132.75,
+        "month_wage": 292050,
+        "days": 17
+      },
+      {
+        "name": "上坂晴",
+        "payType": "時給",
+        "wage_unit": 2300,
+        "wage_time": 93.25,
+        "month_wage": 214475,
+        "days": 14
+      },
+      {
+        "name": "渡邉百合子",
+        "payType": "時給",
+        "wage_unit": 2200,
+        "wage_time": 131.75,
+        "month_wage": 289850,
+        "days": 16
+      },
+      {
+        "name": "小坂あゆみ",
+        "payType": "時給",
+        "wage_unit": 2050,
+        "wage_time": 21.75,
+        "month_wage": 44587,
+        "days": 3
+      },
+      {
+        "name": "宮田浩子",
+        "payType": "時給",
+        "wage_unit": 2000,
+        "wage_time": 26.5,
+        "month_wage": 53000,
+        "days": 6
+      },
+      {
+        "name": "油井菜々子",
+        "payType": "時給",
+        "wage_unit": 1500,
+        "wage_time": 60.5,
+        "month_wage": 90750,
+        "days": 9
+      },
+      {
+        "name": "松村豊樹",
+        "payType": "月給",
+        "wage_unit": 393150,
+        "wage_time": 1,
+        "month_wage": 393150,
+        "days": 18
+      },
+      {
+        "name": "木室亜紀",
+        "payType": "時給",
+        "wage_unit": 2200,
+        "wage_time": 22,
+        "month_wage": 48400,
+        "days": 5
+      },
+      {
+        "name": "谷朋子",
+        "payType": "時給",
+        "wage_unit": 2200,
+        "wage_time": 123.25,
+        "month_wage": 271150,
+        "days": 15
+      }
+    ]
+  },
+  {
+    "date": "202309",
+    "wage": [
+      {
+        "name": "栗岡さやか",
+        "payType": "月給",
+        "wage_unit": 250000,
+        "wage_time": 1,
+        "month_wage": 250000,
+        "days": 10
+      },
+      {
+        "name": "岡本典子",
+        "payType": "時給",
+        "wage_unit": 1400,
+        "wage_time": 9.5,
+        "month_wage": 13300,
+        "days": 3
+      },
+      {
+        "name": "谷口昌宏",
+        "payType": "日給",
+        "wage_unit": 21000,
+        "wage_time": 0,
+        "month_wage": 84000,
+        "days": 4
+      },
+      {
+        "name": "安藤",
+        "payType": "日給",
+        "wage_unit": 5000,
+        "wage_time": 0,
+        "month_wage": 20000,
+        "days": 4
+      },
+      {
+        "name": "岩崎智穂美",
+        "payType": "時給",
+        "wage_unit": 2300,
+        "wage_time": 67.5,
+        "month_wage": 155250,
+        "days": 18
+      },
+      {
+        "name": "内藤康裕",
+        "payType": "日給",
+        "wage_unit": 10000,
+        "wage_time": 0,
+        "month_wage": 110000,
+        "days": 11
+      },
+      {
+        "name": "石田めぐみ",
+        "payType": "時給",
+        "wage_unit": 2100,
+        "wage_time": 103,
+        "month_wage": 216300,
+        "days": 18
+      },
+      {
+        "name": "谷健治",
+        "payType": "月給",
+        "wage_unit": 400000,
+        "wage_time": 1,
+        "month_wage": 400000,
+        "days": 21
+      },
+      {
+        "name": "北村あかり",
+        "payType": "時給",
+        "wage_unit": 3200,
+        "wage_time": 14,
+        "month_wage": 44800,
+        "days": 4
+      },
+      {
+        "name": "鈴木広美",
+        "payType": "時給",
+        "wage_unit": 1150,
+        "wage_time": 64.5,
+        "month_wage": 74175,
+        "days": 11
+      },
+      {
+        "name": "内藤みどり",
+        "payType": "日給",
+        "wage_unit": 10000,
+        "wage_time": 0,
+        "month_wage": 110000,
+        "days": 11
+      },
+      {
+        "name": "兼子さよこ",
+        "payType": "時給",
+        "wage_unit": 2200,
+        "wage_time": 82.25,
+        "month_wage": 180950,
+        "days": 16
+      },
+      {
+        "name": "上坂晴",
+        "payType": "時給",
+        "wage_unit": 2300,
+        "wage_time": 59.25,
+        "month_wage": 136275,
+        "days": 12
+      },
+      {
+        "name": "渡邉百合子",
+        "payType": "時給",
+        "wage_unit": 2200,
+        "wage_time": 120.75,
+        "month_wage": 265650,
+        "days": 20
+      },
+      {
+        "name": "宮田浩子",
+        "payType": "時給",
+        "wage_unit": 2000,
+        "wage_time": 33,
+        "month_wage": 66000,
+        "days": 7
+      },
+      {
+        "name": "油井菜々子",
+        "payType": "時給",
+        "wage_unit": 1500,
+        "wage_time": 20.75,
+        "month_wage": 31125,
+        "days": 6
+      },
+      {
+        "name": "松村豊樹",
+        "payType": "月給",
+        "wage_unit": 393150,
+        "wage_time": 1,
+        "month_wage": 393150,
+        "days": 21
+      },
+      {
+        "name": "木室亜紀",
+        "payType": "時給",
+        "wage_unit": 2200,
+        "wage_time": 12.5,
+        "month_wage": 27500,
+        "days": 2
+      },
+      {
+        "name": "谷朋子",
+        "payType": "時給",
+        "wage_unit": 2200,
+        "wage_time": 20.5,
+        "month_wage": 45100,
+        "days": 5
+      }
+    ]
+  },
+  {
+    "date": "202310",
+    "wage": [
+      {
+        "name": "栗岡さやか",
+        "payType": "月給",
+        "wage_unit": 250000,
+        "wage_time": 1,
+        "month_wage": 250000,
+        "days": 16
+      },
+      {
+        "name": "岡本典子",
+        "payType": "時給",
+        "wage_unit": 1400,
+        "wage_time": 7,
+        "month_wage": 9800,
+        "days": 2
+      },
+      {
+        "name": "谷口昌宏",
+        "payType": "日給",
+        "wage_unit": 21000,
+        "wage_time": 0,
+        "month_wage": 105000,
+        "days": 5
+      },
+      {
+        "name": "安藤",
+        "payType": "日給",
+        "wage_unit": 5000,
+        "wage_time": 0,
+        "month_wage": 25000,
+        "days": 5
+      },
+      {
+        "name": "岡大介",
+        "payType": "時給",
+        "wage_unit": 2100,
+        "wage_time": 6.25,
+        "month_wage": 13125,
+        "days": 2
+      },
+      {
+        "name": "岩崎智穂美",
+        "payType": "時給",
+        "wage_unit": 2300,
+        "wage_time": 73.5,
+        "month_wage": 169050,
+        "days": 21
+      },
+      {
+        "name": "内藤康裕",
+        "payType": "日給",
+        "wage_unit": 10000,
+        "wage_time": 0,
+        "month_wage": 110000,
+        "days": 11
+      },
+      {
+        "name": "石田めぐみ",
+        "payType": "時給",
+        "wage_unit": 2100,
+        "wage_time": 106,
+        "month_wage": 222600,
+        "days": 19
+      },
+      {
+        "name": "谷健治",
+        "payType": "月給",
+        "wage_unit": 400000,
+        "wage_time": 1,
+        "month_wage": 400000,
+        "days": 23
+      },
+      {
+        "name": "北村あかり",
+        "payType": "時給",
+        "wage_unit": 3200,
+        "wage_time": 10,
+        "month_wage": 32000,
+        "days": 3
+      },
+      {
+        "name": "鈴木広美",
+        "payType": "時給",
+        "wage_unit": 1150,
+        "wage_time": 72.5,
+        "month_wage": 83375,
+        "days": 11
+      },
+      {
+        "name": "内藤みどり",
+        "payType": "日給",
+        "wage_unit": 10000,
+        "wage_time": 0,
+        "month_wage": 110000,
+        "days": 11
+      },
+      {
+        "name": "兼子さよこ",
+        "payType": "時給",
+        "wage_unit": 2200,
+        "wage_time": 76.5,
+        "month_wage": 168300,
+        "days": 17
+      },
+      {
+        "name": "上坂晴",
+        "payType": "時給",
+        "wage_unit": 2300,
+        "wage_time": 87.25,
+        "month_wage": 200675,
+        "days": 16
+      },
+      {
+        "name": "渡邉百合子",
+        "payType": "時給",
+        "wage_unit": 2200,
+        "wage_time": 126.25,
+        "month_wage": 277750,
+        "days": 21
+      },
+      {
+        "name": "宮田浩子",
+        "payType": "時給",
+        "wage_unit": 2000,
+        "wage_time": 38,
+        "month_wage": 76000,
+        "days": 8
+      },
+      {
+        "name": "松村豊樹",
+        "payType": "月給",
+        "wage_unit": 393150,
+        "wage_time": 1,
+        "month_wage": 393150,
+        "days": 23
+      },
+      {
+        "name": "木室亜紀",
+        "payType": "時給",
+        "wage_unit": 2200,
+        "wage_time": 21.25,
+        "month_wage": 46750,
+        "days": 3
+      },
+      {
+        "name": "谷朋子",
+        "payType": "時給",
+        "wage_unit": 2200,
+        "wage_time": 21.25,
+        "month_wage": 46750,
+        "days": 3
+      }
+    ]
+  },
+  {
+    "date": "202311",
+    "wage": [
+      {
+        "name": "栗岡さやか",
+        "payType": "月給",
+        "wage_unit": 250000,
+        "wage_time": 1,
+        "month_wage": 250000,
+        "days": 16
+      },
+      {
+        "name": "岡本典子",
+        "payType": "時給",
+        "wage_unit": 1400,
+        "wage_time": 9,
+        "month_wage": 12600,
+        "days": 3
+      },
+      {
+        "name": "谷口昌宏",
+        "payType": "日給",
+        "wage_unit": 21000,
+        "wage_time": 0,
+        "month_wage": 84000,
+        "days": 4
+      },
+      {
+        "name": "安藤",
+        "payType": "日給",
+        "wage_unit": 5000,
+        "wage_time": 0,
+        "month_wage": 25000,
+        "days": 5
+      },
+      {
+        "name": "岡大介",
+        "payType": "時給",
+        "wage_unit": 2100,
+        "wage_time": 6,
+        "month_wage": 12600,
+        "days": 2
+      },
+      {
+        "name": "岩崎智穂美",
+        "payType": "時給",
+        "wage_unit": 2300,
+        "wage_time": 82.25,
+        "month_wage": 189175,
+        "days": 18
+      },
+      {
+        "name": "内藤康裕",
+        "payType": "日給",
+        "wage_unit": 10000,
+        "wage_time": 0,
+        "month_wage": 90000,
+        "days": 9
+      },
+      {
+        "name": "石田めぐみ",
+        "payType": "時給",
+        "wage_unit": 2100,
+        "wage_time": 112,
+        "month_wage": 235200,
+        "days": 19
+      },
+      {
+        "name": "谷健治",
+        "payType": "月給",
+        "wage_unit": 400000,
+        "wage_time": 1,
+        "month_wage": 400000,
+        "days": 22
+      },
+      {
+        "name": "北村あかり",
+        "payType": "時給",
+        "wage_unit": 3200,
+        "wage_time": 6.5,
+        "month_wage": 20800,
+        "days": 2
+      },
+      {
+        "name": "鈴木広美",
+        "payType": "時給",
+        "wage_unit": 1150,
+        "wage_time": 88.5,
+        "month_wage": 101775,
+        "days": 13
+      },
+      {
+        "name": "内藤みどり",
+        "payType": "日給",
+        "wage_unit": 10000,
+        "wage_time": 0,
+        "month_wage": 100000,
+        "days": 10
+      },
+      {
+        "name": "兼子さよこ",
+        "payType": "時給",
+        "wage_unit": 2200,
+        "wage_time": 73.5,
+        "month_wage": 161700,
+        "days": 16
+      },
+      {
+        "name": "上坂晴",
+        "payType": "時給",
+        "wage_unit": 2300,
+        "wage_time": 73.5,
+        "month_wage": 169050,
+        "days": 15
+      },
+      {
+        "name": "渡邉百合子",
+        "payType": "時給",
+        "wage_unit": 2200,
+        "wage_time": 119.5,
+        "month_wage": 262900,
+        "days": 21
+      },
+      {
+        "name": "宮田浩子",
+        "payType": "時給",
+        "wage_unit": 2000,
+        "wage_time": 42.5,
+        "month_wage": 85000,
+        "days": 9
+      },
+      {
+        "name": "松村豊樹",
+        "payType": "月給",
+        "wage_unit": 393150,
+        "wage_time": 1,
+        "month_wage": 393150,
+        "days": 22
+      },
+      {
+        "name": "木室亜紀",
+        "payType": "時給",
+        "wage_unit": 2200,
+        "wage_time": 20.75,
+        "month_wage": 45650,
+        "days": 3
+      },
+      {
+        "name": "谷朋子",
+        "payType": "時給",
+        "wage_unit": 2200,
+        "wage_time": 23.75,
+        "month_wage": 52250,
+        "days": 4
+      }
+    ]
+  },
+  {
+    "date": "202312",
+    "wage": [
+      {
+        "name": "栗岡さやか",
+        "payType": "月給",
+        "wage_unit": 250000,
+        "wage_time": 1,
+        "month_wage": 250000,
+        "days": 17
+      },
+      {
+        "name": "岡本典子",
+        "payType": "時給",
+        "wage_unit": 1400,
+        "wage_time": 6,
+        "month_wage": 8400,
+        "days": 2
+      },
+      {
+        "name": "谷口昌宏",
+        "payType": "日給",
+        "wage_unit": 21000,
+        "wage_time": 0,
+        "month_wage": 84000,
+        "days": 4
+      },
+      {
+        "name": "安藤",
+        "payType": "日給",
+        "wage_unit": 5000,
+        "wage_time": 0,
+        "month_wage": 30000,
+        "days": 6
+      },
+      {
+        "name": "岡大介",
+        "payType": "時給",
+        "wage_unit": 2100,
+        "wage_time": 6,
+        "month_wage": 12600,
+        "days": 2
+      },
+      {
+        "name": "岩崎智穂美",
+        "payType": "時給",
+        "wage_unit": 2300,
+        "wage_time": 86.5,
+        "month_wage": 198950,
+        "days": 18
+      },
+      {
+        "name": "内藤康裕",
+        "payType": "日給",
+        "wage_unit": 10000,
+        "wage_time": 0,
+        "month_wage": 110000,
+        "days": 11
+      },
+      {
+        "name": "石田めぐみ",
+        "payType": "時給",
+        "wage_unit": 2100,
+        "wage_time": 121.75,
+        "month_wage": 255675,
+        "days": 19
+      },
+      {
+        "name": "谷健治",
+        "payType": "月給",
+        "wage_unit": 400000,
+        "wage_time": 1,
+        "month_wage": 400000,
+        "days": 21
+      },
+      {
+        "name": "北村あかり",
+        "payType": "時給",
+        "wage_unit": 3200,
+        "wage_time": 4.5,
+        "month_wage": 14400,
+        "days": 1
+      },
+      {
+        "name": "鈴木広美",
+        "payType": "時給",
+        "wage_unit": 1150,
+        "wage_time": 67.75,
+        "month_wage": 77912,
+        "days": 10
+      },
+      {
+        "name": "内藤みどり",
+        "payType": "日給",
+        "wage_unit": 10000,
+        "wage_time": 0,
+        "month_wage": 110000,
+        "days": 11
+      },
+      {
+        "name": "兼子さよこ",
+        "payType": "時給",
+        "wage_unit": 2200,
+        "wage_time": 88.75,
+        "month_wage": 195250,
+        "days": 16
+      },
+      {
+        "name": "上坂晴",
+        "payType": "時給",
+        "wage_unit": 2300,
+        "wage_time": 87.5,
+        "month_wage": 201250,
+        "days": 17
+      },
+      {
+        "name": "渡邉百合子",
+        "payType": "時給",
+        "wage_unit": 2200,
+        "wage_time": 148.25,
+        "month_wage": 326150,
+        "days": 22
+      },
+      {
+        "name": "小坂あゆみ",
+        "payType": "時給",
+        "wage_unit": 2050,
+        "wage_time": 46,
+        "month_wage": 94300,
+        "days": 11
+      },
+      {
+        "name": "宮田浩子",
+        "payType": "時給",
+        "wage_unit": 2000,
+        "wage_time": 37.75,
+        "month_wage": 75500,
+        "days": 8
+      },
+      {
+        "name": "松村豊樹",
+        "payType": "月給",
+        "wage_unit": 393150,
+        "wage_time": 1,
+        "month_wage": 393150,
+        "days": 22
+      },
+      {
+        "name": "木室亜紀",
+        "payType": "時給",
+        "wage_unit": 2200,
+        "wage_time": 23.5,
+        "month_wage": 51700,
+        "days": 4
+      },
+      {
+        "name": "谷朋子",
+        "payType": "時給",
+        "wage_unit": 2200,
+        "wage_time": 39.25,
+        "month_wage": 86350,
+        "days": 5
+      }
+    ]
+  },
+  {
+    "date": "202401",
+    "wage": [
+      {
+        "name": "栗岡さやか",
+        "payType": "月給",
+        "wage_unit": 250000,
+        "wage_time": 1,
+        "month_wage": 250000,
+        "days": 17
+      },
+      {
+        "name": "岡本典子",
+        "payType": "時給",
+        "wage_unit": 1400,
+        "wage_time": 7,
+        "month_wage": 9800,
+        "days": 2
+      },
+      {
+        "name": "谷口昌宏",
+        "payType": "日給",
+        "wage_unit": 21000,
+        "wage_time": 0,
+        "month_wage": 84000,
+        "days": 4
+      },
+      {
+        "name": "安藤",
+        "payType": "日給",
+        "wage_unit": 5000,
+        "wage_time": 0,
+        "month_wage": 25000,
+        "days": 5
+      },
+      {
+        "name": "岩崎智穂美",
+        "payType": "時給",
+        "wage_unit": 2300,
+        "wage_time": 76,
+        "month_wage": 174800,
+        "days": 16
+      },
+      {
+        "name": "内藤康裕",
+        "payType": "日給",
+        "wage_unit": 10000,
+        "wage_time": 0,
+        "month_wage": 70000,
+        "days": 7
+      },
+      {
+        "name": "石田めぐみ",
+        "payType": "時給",
+        "wage_unit": 2100,
+        "wage_time": 105.5,
+        "month_wage": 221550,
+        "days": 18
+      },
+      {
+        "name": "谷健治",
+        "payType": "月給",
+        "wage_unit": 400000,
+        "wage_time": 1,
+        "month_wage": 400000,
+        "days": 20
+      },
+      {
+        "name": "北村あかり",
+        "payType": "時給",
+        "wage_unit": 3200,
+        "wage_time": 8,
+        "month_wage": 25600,
+        "days": 2
+      },
+      {
+        "name": "鈴木広美",
+        "payType": "時給",
+        "wage_unit": 1150,
+        "wage_time": 98.5,
+        "month_wage": 113275,
+        "days": 14
+      },
+      {
+        "name": "内藤みどり",
+        "payType": "日給",
+        "wage_unit": 10000,
+        "wage_time": 0,
+        "month_wage": 70000,
+        "days": 7
+      },
+      {
+        "name": "兼子さよこ",
+        "payType": "時給",
+        "wage_unit": 2200,
+        "wage_time": 44.25,
+        "month_wage": 97350,
+        "days": 9
+      },
+      {
+        "name": "上坂晴",
+        "payType": "時給",
+        "wage_unit": 2300,
+        "wage_time": 78,
+        "month_wage": 179400,
+        "days": 16
+      },
+      {
+        "name": "渡邉百合子",
+        "payType": "時給",
+        "wage_unit": 2200,
+        "wage_time": 104.25,
+        "month_wage": 229350,
+        "days": 19
+      },
+      {
+        "name": "小坂あゆみ",
+        "payType": "時給",
+        "wage_unit": 2050,
+        "wage_time": 55.5,
+        "month_wage": 113775,
+        "days": 13
+      },
+      {
+        "name": "宮田浩子",
+        "payType": "時給",
+        "wage_unit": 2000,
+        "wage_time": 11.5,
+        "month_wage": 23000,
+        "days": 4
+      },
+      {
+        "name": "松村豊樹",
+        "payType": "月給",
+        "wage_unit": 393150,
+        "wage_time": 1,
+        "month_wage": 393150,
+        "days": 20
+      },
+      {
+        "name": "木室亜紀",
+        "payType": "時給",
+        "wage_unit": 2200,
+        "wage_time": 16.5,
+        "month_wage": 36300,
+        "days": 2
+      },
+      {
+        "name": "谷朋子",
+        "payType": "時給",
+        "wage_unit": 2200,
+        "wage_time": 33.25,
+        "month_wage": 73150,
+        "days": 4
+      }
+    ]
+  },
+  {
+    "date": "202402",
+    "wage": [
+      {
+        "name": "栗岡さやか",
+        "payType": "月給",
+        "wage_unit": 250000,
+        "wage_time": 1,
+        "month_wage": 250000,
+        "days": 16
+      },
+      {
+        "name": "岡本典子",
+        "payType": "時給",
+        "wage_unit": 1400,
+        "wage_time": 10.5,
+        "month_wage": 14700,
+        "days": 3
+      },
+      {
+        "name": "谷口昌宏",
+        "payType": "日給",
+        "wage_unit": 21000,
+        "wage_time": 0,
+        "month_wage": 84000,
+        "days": 4
+      },
+      {
+        "name": "安藤",
+        "payType": "日給",
+        "wage_unit": 5000,
+        "wage_time": 0,
+        "month_wage": 15000,
+        "days": 3
+      },
+      {
+        "name": "岡大介",
+        "payType": "時給",
+        "wage_unit": 2100,
+        "wage_time": 6,
+        "month_wage": 12600,
+        "days": 2
+      },
+      {
+        "name": "岩崎智穂美",
+        "payType": "時給",
+        "wage_unit": 2300,
+        "wage_time": 73,
+        "month_wage": 167900,
+        "days": 16
+      },
+      {
+        "name": "内藤康裕",
+        "payType": "日給",
+        "wage_unit": 10000,
+        "wage_time": 0,
+        "month_wage": 70000,
+        "days": 7
+      },
+      {
+        "name": "石田めぐみ",
+        "payType": "時給",
+        "wage_unit": 2100,
+        "wage_time": 102.75,
+        "month_wage": 215775,
+        "days": 20
+      },
+      {
+        "name": "谷健治",
+        "payType": "月給",
+        "wage_unit": 400000,
+        "wage_time": 1,
+        "month_wage": 400000,
+        "days": 21
+      },
+      {
+        "name": "北村あかり",
+        "payType": "時給",
+        "wage_unit": 3200,
+        "wage_time": 7,
+        "month_wage": 22400,
+        "days": 2
+      },
+      {
+        "name": "鈴木広美",
+        "payType": "時給",
+        "wage_unit": 1150,
+        "wage_time": 52.5,
+        "month_wage": 60375,
+        "days": 9
+      },
+      {
+        "name": "内藤みどり",
+        "payType": "日給",
+        "wage_unit": 10000,
+        "wage_time": 0,
+        "month_wage": 80000,
+        "days": 8
+      },
+      {
+        "name": "兼子さよこ",
+        "payType": "時給",
+        "wage_unit": 2200,
+        "wage_time": 67.5,
+        "month_wage": 148500,
+        "days": 16
+      },
+      {
+        "name": "上坂晴",
+        "payType": "時給",
+        "wage_unit": 2300,
+        "wage_time": 42.75,
+        "month_wage": 98325,
+        "days": 13
+      },
+      {
+        "name": "渡邉百合子",
+        "payType": "時給",
+        "wage_unit": 2200,
+        "wage_time": 116.5,
+        "month_wage": 256300,
+        "days": 19
+      },
+      {
+        "name": "小坂あゆみ",
+        "payType": "時給",
+        "wage_unit": 2050,
+        "wage_time": 34.25,
+        "month_wage": 70212,
+        "days": 12
+      },
+      {
+        "name": "宮田浩子",
+        "payType": "時給",
+        "wage_unit": 2000,
+        "wage_time": 36.5,
+        "month_wage": 73000,
+        "days": 8
+      },
+      {
+        "name": "松村豊樹",
+        "payType": "月給",
+        "wage_unit": 393150,
+        "wage_time": 1,
+        "month_wage": 393150,
+        "days": 21
+      },
+      {
+        "name": "トウエン",
+        "payType": "時給",
+        "wage_unit": 1500,
+        "wage_time": 15.5,
+        "month_wage": 23250,
+        "days": 4
+      },
+      {
+        "name": "木室亜紀",
+        "payType": "時給",
+        "wage_unit": 2200,
+        "wage_time": 8,
+        "month_wage": 17600,
+        "days": 1
+      },
+      {
+        "name": "谷朋子",
+        "payType": "時給",
+        "wage_unit": 2200,
+        "wage_time": 15.75,
+        "month_wage": 34650,
+        "days": 2
+      }
+    ]
+  },
+  {
+    "date": "202403",
+    "wage": [
+      {
+        "name": "栗岡さやか",
+        "payType": "月給",
+        "wage_unit": 250000,
+        "wage_time": 1,
+        "month_wage": 250000,
+        "days": 16
+      },
+      {
+        "name": "谷口昌宏",
+        "payType": "日給",
+        "wage_unit": 21000,
+        "wage_time": 0,
+        "month_wage": 84000,
+        "days": 4
+      },
+      {
+        "name": "安藤",
+        "payType": "日給",
+        "wage_unit": 5000,
+        "wage_time": 0,
+        "month_wage": 30000,
+        "days": 6
+      },
+      {
+        "name": "岡大介",
+        "payType": "時給",
+        "wage_unit": 2100,
+        "wage_time": 6,
+        "month_wage": 12600,
+        "days": 2
+      },
+      {
+        "name": "岩崎智穂美",
+        "payType": "時給",
+        "wage_unit": 2300,
+        "wage_time": 64.25,
+        "month_wage": 147775,
+        "days": 11
+      },
+      {
+        "name": "内藤康裕",
+        "payType": "日給",
+        "wage_unit": 10000,
+        "wage_time": 0,
+        "month_wage": 90000,
+        "days": 9
+      },
+      {
+        "name": "石田めぐみ",
+        "payType": "時給",
+        "wage_unit": 2100,
+        "wage_time": 138.75,
+        "month_wage": 291375,
+        "days": 20
+      },
+      {
+        "name": "谷健治",
+        "payType": "月給",
+        "wage_unit": 400000,
+        "wage_time": 1,
+        "month_wage": 400000,
+        "days": 22
+      },
+      {
+        "name": "北村あかり",
+        "payType": "時給",
+        "wage_unit": 3200,
+        "wage_time": 11.5,
+        "month_wage": 36800,
+        "days": 3
+      },
+      {
+        "name": "鈴木広美",
+        "payType": "時給",
+        "wage_unit": 1150,
+        "wage_time": 99.25,
+        "month_wage": 114137,
+        "days": 14
+      },
+      {
+        "name": "内藤みどり",
+        "payType": "日給",
+        "wage_unit": 10000,
+        "wage_time": 0,
+        "month_wage": 90000,
+        "days": 9
+      },
+      {
+        "name": "兼子さよこ",
+        "payType": "時給",
+        "wage_unit": 2200,
+        "wage_time": 110.75,
+        "month_wage": 243650,
+        "days": 20
+      },
+      {
+        "name": "上坂晴",
+        "payType": "時給",
+        "wage_unit": 2300,
+        "wage_time": 48.5,
+        "month_wage": 111550,
+        "days": 11
+      },
+      {
+        "name": "渡邉百合子",
+        "payType": "時給",
+        "wage_unit": 2200,
+        "wage_time": 161,
+        "month_wage": 354200,
+        "days": 21
+      },
+      {
+        "name": "小坂あゆみ",
+        "payType": "時給",
+        "wage_unit": 2050,
+        "wage_time": 54.25,
+        "month_wage": 111212,
+        "days": 13
+      },
+      {
+        "name": "宮田浩子",
+        "payType": "時給",
+        "wage_unit": 2000,
+        "wage_time": 16.75,
+        "month_wage": 33500,
+        "days": 4
+      },
+      {
+        "name": "松村豊樹",
+        "payType": "月給",
+        "wage_unit": 393150,
+        "wage_time": 1,
+        "month_wage": 393150,
+        "days": 22
+      },
+      {
+        "name": "トウエン",
+        "payType": "時給",
+        "wage_unit": 1500,
+        "wage_time": 93,
+        "month_wage": 139500,
+        "days": 19
+      },
+      {
+        "name": "木室亜紀",
+        "payType": "時給",
+        "wage_unit": 2200,
+        "wage_time": 14,
+        "month_wage": 30800,
+        "days": 2
+      },
+      {
+        "name": "谷朋子",
+        "payType": "時給",
+        "wage_unit": 2200,
+        "wage_time": 30.75,
+        "month_wage": 67650,
+        "days": 4
+      }
+    ]
+  },
+  {
+    "date": "202404",
+    "wage": [
+      {
+        "name": "栗岡さやか",
+        "payType": "月給",
+        "wage_unit": 250000,
+        "wage_time": 1,
+        "month_wage": 250000,
+        "days": 10
+      },
+      {
+        "name": "岡本典子",
+        "payType": "時給",
+        "wage_unit": 1400,
+        "wage_time": 10.5,
+        "month_wage": 14700,
+        "days": 3
+      },
+      {
+        "name": "谷口昌宏",
+        "payType": "日給",
+        "wage_unit": 21000,
+        "wage_time": 0,
+        "month_wage": 84000,
+        "days": 4
+      },
+      {
+        "name": "安藤",
+        "payType": "日給",
+        "wage_unit": 5000,
+        "wage_time": 0,
+        "month_wage": 30000,
+        "days": 6
+      },
+      {
+        "name": "岡大介",
+        "payType": "時給",
+        "wage_unit": 2100,
+        "wage_time": 6,
+        "month_wage": 12600,
+        "days": 2
+      },
+      {
+        "name": "岩崎智穂美",
+        "payType": "時給",
+        "wage_unit": 2300,
+        "wage_time": 76,
+        "month_wage": 174800,
+        "days": 14
+      },
+      {
+        "name": "内藤康裕",
+        "payType": "日給",
+        "wage_unit": 10000,
+        "wage_time": 0,
+        "month_wage": 80000,
+        "days": 8
+      },
+      {
+        "name": "石田めぐみ",
+        "payType": "時給",
+        "wage_unit": 2100,
+        "wage_time": 136.25,
+        "month_wage": 286125,
+        "days": 19
+      },
+      {
+        "name": "谷健治",
+        "payType": "月給",
+        "wage_unit": 400000,
+        "wage_time": 1,
+        "month_wage": 400000,
+        "days": 22
+      },
+      {
+        "name": "北村あかり",
+        "payType": "時給",
+        "wage_unit": 3200,
+        "wage_time": 12.5,
+        "month_wage": 40000,
+        "days": 3
+      },
+      {
+        "name": "鈴木広美",
+        "payType": "時給",
+        "wage_unit": 1150,
+        "wage_time": 113.75,
+        "month_wage": 130812,
+        "days": 17
+      },
+      {
+        "name": "内藤みどり",
+        "payType": "日給",
+        "wage_unit": 10000,
+        "wage_time": 0,
+        "month_wage": 80000,
+        "days": 8
+      },
+      {
+        "name": "兼子さよこ",
+        "payType": "時給",
+        "wage_unit": 2200,
+        "wage_time": 87,
+        "month_wage": 191400,
+        "days": 16
+      },
+      {
+        "name": "上坂晴",
+        "payType": "時給",
+        "wage_unit": 2300,
+        "wage_time": 70.5,
+        "month_wage": 162150,
+        "days": 16
+      },
+      {
+        "name": "渡邉百合子",
+        "payType": "時給",
+        "wage_unit": 2200,
+        "wage_time": 153.75,
+        "month_wage": 338250,
+        "days": 21
+      },
+      {
+        "name": "小坂あゆみ",
+        "payType": "時給",
+        "wage_unit": 2050,
+        "wage_time": 72.75,
+        "month_wage": 149137,
+        "days": 17
+      },
+      {
+        "name": "宮田浩子",
+        "payType": "時給",
+        "wage_unit": 2000,
+        "wage_time": 32.75,
+        "month_wage": 65500,
+        "days": 8
+      },
+      {
+        "name": "松村豊樹",
+        "payType": "月給",
+        "wage_unit": 393150,
+        "wage_time": 1,
+        "month_wage": 393150,
+        "days": 23
+      },
+      {
+        "name": "トウエン",
+        "payType": "時給",
+        "wage_unit": 1500,
+        "wage_time": 80.75,
+        "month_wage": 121125,
+        "days": 16
+      },
+      {
+        "name": "佐々木芹菜",
+        "payType": "時給",
+        "wage_unit": 3500,
+        "wage_time": 88,
+        "month_wage": 308000,
+        "days": 20
+      }
+    ]
+  },
+  {
+    "date": "202405",
+    "wage": [
+      {
+        "name": "栗岡さやか",
+        "payType": "月給",
+        "wage_unit": 250000,
+        "wage_time": 1,
+        "month_wage": 250000,
+        "days": 18
+      },
+      {
+        "name": "岡本典子",
+        "payType": "時給",
+        "wage_unit": 1400,
+        "wage_time": 11,
+        "month_wage": 15400,
+        "days": 3
+      },
+      {
+        "name": "谷口昌宏",
+        "payType": "日給",
+        "wage_unit": 21000,
+        "wage_time": 0,
+        "month_wage": 84000,
+        "days": 4
+      },
+      {
+        "name": "安藤",
+        "payType": "日給",
+        "wage_unit": 5000,
+        "wage_time": 0,
+        "month_wage": 20000,
+        "days": 4
+      },
+      {
+        "name": "岡大介",
+        "payType": "時給",
+        "wage_unit": 2100,
+        "wage_time": 3.25,
+        "month_wage": 6825,
+        "days": 1
+      },
+      {
+        "name": "岩崎智穂美",
+        "payType": "時給",
+        "wage_unit": 2300,
+        "wage_time": 67.5,
+        "month_wage": 155250,
+        "days": 15
+      },
+      {
+        "name": "内藤康裕",
+        "payType": "日給",
+        "wage_unit": 10000,
+        "wage_time": 0,
+        "month_wage": 90000,
+        "days": 9
+      },
+      {
+        "name": "石田めぐみ",
+        "payType": "時給",
+        "wage_unit": 2100,
+        "wage_time": 134.75,
+        "month_wage": 282975,
+        "days": 21
+      },
+      {
+        "name": "谷健治",
+        "payType": "月給",
+        "wage_unit": 400000,
+        "wage_time": 1,
+        "month_wage": 400000,
+        "days": 23
+      },
+      {
+        "name": "鈴木広美",
+        "payType": "時給",
+        "wage_unit": 1150,
+        "wage_time": 78.75,
+        "month_wage": 90562,
+        "days": 13
+      },
+      {
+        "name": "内藤みどり",
+        "payType": "日給",
+        "wage_unit": 10000,
+        "wage_time": 0,
+        "month_wage": 80000,
+        "days": 8
+      },
+      {
+        "name": "兼子さよこ",
+        "payType": "時給",
+        "wage_unit": 2200,
+        "wage_time": 6.25,
+        "month_wage": 13750,
+        "days": 1
+      },
+      {
+        "name": "上坂晴",
+        "payType": "時給",
+        "wage_unit": 2300,
+        "wage_time": 61.5,
+        "month_wage": 141450,
+        "days": 17
+      },
+      {
+        "name": "渡邉百合子",
+        "payType": "時給",
+        "wage_unit": 2200,
+        "wage_time": 141.25,
+        "month_wage": 310750,
+        "days": 22
+      },
+      {
+        "name": "小坂あゆみ",
+        "payType": "時給",
+        "wage_unit": 2050,
+        "wage_time": 63,
+        "month_wage": 129150,
+        "days": 15
+      },
+      {
+        "name": "宮田浩子",
+        "payType": "時給",
+        "wage_unit": 2000,
+        "wage_time": 35.75,
+        "month_wage": 71500,
+        "days": 8
+      },
+      {
+        "name": "松村豊樹",
+        "payType": "月給",
+        "wage_unit": 393150,
+        "wage_time": 1,
+        "month_wage": 393150,
+        "days": 23
+      },
+      {
+        "name": "トウエン",
+        "payType": "時給",
+        "wage_unit": 1500,
+        "wage_time": 97.5,
+        "month_wage": 146250,
+        "days": 22
+      },
+      {
+        "name": "佐々木芹菜",
+        "payType": "時給",
+        "wage_unit": 3500,
+        "wage_time": 85,
+        "month_wage": 297500,
+        "days": 20
+      }
+    ]
+  },
+  {
+    "date": "202406",
+    "wage": [
+      {
+        "name": "栗岡さやか",
+        "payType": "月給",
+        "wage_unit": 250000,
+        "wage_time": 1,
+        "month_wage": 250000,
+        "days": 12
+      },
+      {
+        "name": "谷口昌宏",
+        "payType": "日給",
+        "wage_unit": 21000,
+        "wage_time": 0,
+        "month_wage": 63000,
+        "days": 3
+      },
+      {
+        "name": "安藤",
+        "payType": "日給",
+        "wage_unit": 5000,
+        "wage_time": 0,
+        "month_wage": 25000,
+        "days": 5
+      },
+      {
+        "name": "岡大介",
+        "payType": "時給",
+        "wage_unit": 2100,
+        "wage_time": 6,
+        "month_wage": 12600,
+        "days": 2
+      },
+      {
+        "name": "岩崎智穂美",
+        "payType": "時給",
+        "wage_unit": 2300,
+        "wage_time": 67.25,
+        "month_wage": 154675,
+        "days": 17
+      },
+      {
+        "name": "内藤康裕",
+        "payType": "日給",
+        "wage_unit": 10000,
+        "wage_time": 0,
+        "month_wage": 60000,
+        "days": 6
+      },
+      {
+        "name": "石田めぐみ",
+        "payType": "時給",
+        "wage_unit": 2100,
+        "wage_time": 124.25,
+        "month_wage": 260925,
+        "days": 18
+      },
+      {
+        "name": "谷健治",
+        "payType": "月給",
+        "wage_unit": 400000,
+        "wage_time": 1,
+        "month_wage": 400000,
+        "days": 21
+      },
+      {
+        "name": "北村あかり",
+        "payType": "時給",
+        "wage_unit": 3200,
+        "wage_time": 3.5,
+        "month_wage": 11200,
+        "days": 1
+      },
+      {
+        "name": "鈴木広美",
+        "payType": "時給",
+        "wage_unit": 1150,
+        "wage_time": 87.75,
+        "month_wage": 100912,
+        "days": 15
+      },
+      {
+        "name": "内藤みどり",
+        "payType": "日給",
+        "wage_unit": 10000,
+        "wage_time": 0,
+        "month_wage": 40000,
+        "days": 4
+      },
+      {
+        "name": "兼子さよこ",
+        "payType": "時給",
+        "wage_unit": 2200,
+        "wage_time": 6.25,
+        "month_wage": 13750,
+        "days": 1
+      },
+      {
+        "name": "上坂晴",
+        "payType": "時給",
+        "wage_unit": 2300,
+        "wage_time": 50.75,
+        "month_wage": 116725,
+        "days": 15
+      },
+      {
+        "name": "渡邉百合子",
+        "payType": "時給",
+        "wage_unit": 2200,
+        "wage_time": 129.75,
+        "month_wage": 285450,
+        "days": 21
+      },
+      {
+        "name": "小坂あゆみ",
+        "payType": "時給",
+        "wage_unit": 2050,
+        "wage_time": 39.5,
+        "month_wage": 80975,
+        "days": 11
+      },
+      {
+        "name": "宮田浩子",
+        "payType": "時給",
+        "wage_unit": 2000,
+        "wage_time": 31.5,
+        "month_wage": 63000,
+        "days": 7
+      },
+      {
+        "name": "松村豊樹",
+        "payType": "月給",
+        "wage_unit": 393150,
+        "wage_time": 1,
+        "month_wage": 393150,
+        "days": 21
+      },
+      {
+        "name": "トウエン",
+        "payType": "時給",
+        "wage_unit": 1500,
+        "wage_time": 100.75,
+        "month_wage": 151125,
+        "days": 22
+      }
+    ]
+  },
+  {
+    "date": "202407",
+    "wage": [
+      {
+        "name": "栗岡さやか",
+        "payType": "月給",
+        "wage_unit": 250000,
+        "wage_time": 1,
+        "month_wage": 250000,
+        "days": 14
+      },
+      {
+        "name": "谷口昌宏",
+        "payType": "日給",
+        "wage_unit": 21000,
+        "wage_time": 0,
+        "month_wage": 63000,
+        "days": 3
+      },
+      {
+        "name": "安藤",
+        "payType": "日給",
+        "wage_unit": 5000,
+        "wage_time": 0,
+        "month_wage": 20000,
+        "days": 4
+      },
+      {
+        "name": "岩崎智穂美",
+        "payType": "時給",
+        "wage_unit": 2300,
+        "wage_time": 41.5,
+        "month_wage": 95450,
+        "days": 8
+      },
+      {
+        "name": "内藤康裕",
+        "payType": "日給",
+        "wage_unit": 10000,
+        "wage_time": 0,
+        "month_wage": 30000,
+        "days": 3
+      },
+      {
+        "name": "石田めぐみ",
+        "payType": "時給",
+        "wage_unit": 2100,
+        "wage_time": 122.25,
+        "month_wage": 256725,
+        "days": 16
+      },
+      {
+        "name": "谷健治",
+        "payType": "月給",
+        "wage_unit": 400000,
+        "wage_time": 1,
+        "month_wage": 400000,
+        "days": 17
+      },
+      {
+        "name": "北村あかり",
+        "payType": "時給",
+        "wage_unit": 3200,
+        "wage_time": 3.5,
+        "month_wage": 11200,
+        "days": 1
+      },
+      {
+        "name": "鈴木広美",
+        "payType": "時給",
+        "wage_unit": 1150,
+        "wage_time": 79.5,
+        "month_wage": 91425,
+        "days": 14
+      },
+      {
+        "name": "内藤みどり",
+        "payType": "日給",
+        "wage_unit": 10000,
+        "wage_time": 0,
+        "month_wage": 30000,
+        "days": 3
+      },
+      {
+        "name": "兼子さよこ",
+        "payType": "時給",
+        "wage_unit": 2200,
+        "wage_time": 24.5,
+        "month_wage": 53900,
+        "days": 3
+      },
+      {
+        "name": "上坂晴",
+        "payType": "時給",
+        "wage_unit": 2300,
+        "wage_time": 54.5,
+        "month_wage": 125350,
+        "days": 13
+      },
+      {
+        "name": "渡邉百合子",
+        "payType": "時給",
+        "wage_unit": 2200,
+        "wage_time": 120,
+        "month_wage": 264000,
+        "days": 18
+      },
+      {
+        "name": "小坂あゆみ",
+        "payType": "時給",
+        "wage_unit": 2050,
+        "wage_time": 63.25,
+        "month_wage": 129662,
+        "days": 13
+      },
+      {
+        "name": "宮田浩子",
+        "payType": "時給",
+        "wage_unit": 2000,
+        "wage_time": 8.75,
+        "month_wage": 17500,
+        "days": 2
+      },
+      {
+        "name": "松村豊樹",
+        "payType": "月給",
+        "wage_unit": 393150,
+        "wage_time": 1,
+        "month_wage": 393150,
+        "days": 19
+      },
+      {
+        "name": "トウエン",
+        "payType": "時給",
+        "wage_unit": 1500,
+        "wage_time": 100.5,
+        "month_wage": 150750,
+        "days": 18
+      },
+      {
+        "name": "吉益順子",
+        "payType": "時給",
+        "wage_unit": 3300,
+        "wage_time": 54,
+        "month_wage": 178200,
+        "days": 11
+      }
+    ]
+  }
+]
